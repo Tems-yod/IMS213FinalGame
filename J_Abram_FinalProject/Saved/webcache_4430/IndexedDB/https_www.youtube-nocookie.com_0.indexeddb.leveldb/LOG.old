@@ -1,0 +1,6 @@
+2024/05/11-17:11:08.753 d638 Creating DB C:/Users/jacks/OneDrive/Documents/2024 - Spring Semester/IMS 213 B/J_Abram_FinalProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/11-17:11:08.775 d638 Reusing MANIFEST C:/Users/jacks/OneDrive/Documents/2024 - Spring Semester/IMS 213 B/J_Abram_FinalProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/11-17:11:12.021 56cc Level-0 table #5: started
+2024/05/11-17:11:12.046 56cc Level-0 table #5: 1167 bytes OK
+2024/05/11-17:11:12.051 56cc Delete type=0 #3
+2024/05/11-17:11:12.053 56cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

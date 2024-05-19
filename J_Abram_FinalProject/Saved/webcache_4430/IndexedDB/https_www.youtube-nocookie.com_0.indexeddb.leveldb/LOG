@@ -1,0 +1,8 @@
+2024/05/11-17:11:12.076 b954 Reusing MANIFEST C:/Users/jacks/OneDrive/Documents/2024 - Spring Semester/IMS 213 B/J_Abram_FinalProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/11-17:11:12.077 b954 Recovering log #4
+2024/05/11-17:11:12.078 b954 Reusing old log C:/Users/jacks/OneDrive/Documents/2024 - Spring Semester/IMS 213 B/J_Abram_FinalProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/05/11-17:12:50.166 b954 Level-0 table #8: started
+2024/05/11-17:12:50.166 b954 Level-0 table #8: 0 bytes OK
+2024/05/11-17:12:50.172 b954 Delete type=0 #4
+2024/05/11-17:12:50.172 b954 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/11-17:12:50.172 b954 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
